@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupProject", "GroupProject\GroupProject.csproj", "{3AE594DE-3636-4617-817C-19922A56E0DB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{4897CAB7-50A2-46D6-A196-14CE82AF47BB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C83BB1E5-64F6-4904-9562-EE463E5CA364}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3AE594DE-3636-4617-817C-19922A56E0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3AE594DE-3636-4617-817C-19922A56E0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3AE594DE-3636-4617-817C-19922A56E0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3AE594DE-3636-4617-817C-19922A56E0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4897CAB7-50A2-46D6-A196-14CE82AF47BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4897CAB7-50A2-46D6-A196-14CE82AF47BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4897CAB7-50A2-46D6-A196-14CE82AF47BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
