@@ -45,6 +45,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLLChucVu.cs" />
+    <Compile Include="BLLCT_HD_Nhap.cs" />
+    <Compile Include="BLLCT_HD_Xuat.cs" />
+    <Compile Include="BLLDonVi.cs" />
+    <Compile Include="BLLHangHoa.cs" />
+    <Compile Include="BLLHD_Nhap.cs" />
+    <Compile Include="BLLHD_Xuat.cs" />
+    <Compile Include="BLLKhachHang.cs" />
+    <Compile Include="BLLLoaiHang.cs" />
+    <Compile Include="BLLLoaiKhach.cs" />
+    <Compile Include="BLLNCC.cs" />
     <Compile Include="BLLNhanVien.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
