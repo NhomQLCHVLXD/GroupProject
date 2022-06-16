@@ -35,6 +35,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,7 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DALChucVu.cs" />
+    <Compile Include="DALCT_HD_Nhap.cs" />
+    <Compile Include="DALCT_HD_Xuat.cs" />
+    <Compile Include="DALDonVi.cs" />
+    <Compile Include="DALHangHoa.cs" />
+    <Compile Include="DALHD_Nhap.cs" />
+    <Compile Include="DALHD_Xuat.cs" />
+    <Compile Include="DALKhachHang.cs" />
+    <Compile Include="DALLoaiHang.cs" />
+    <Compile Include="DALLoaiKhach.cs" />
+    <Compile Include="DALNCC.cs" />
+    <Compile Include="DALNhanVien.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
