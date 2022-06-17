@@ -48,9 +48,6 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="ThietKe_Controls">
-      <HintPath>..\..\..\..\..\Tuan_2\BT_Tuam2\ThietKe_Controls\bin\Debug\ThietKe_Controls.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaoCaoTheoNgay.cs">
